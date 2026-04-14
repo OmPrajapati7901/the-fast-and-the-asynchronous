@@ -1,0 +1,9 @@
+[project]
+name = "the-fast-and-the-asynchronous"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi[standard,standrad]>=0.135.3",
+]
